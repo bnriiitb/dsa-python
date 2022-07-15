@@ -71,3 +71,4 @@ if __name__ == '__main__':
     prob2()
     max_number = input("Please enter the max number to generate odd numbers in that range \n")
     prob3(int(max_number))
+    print()
